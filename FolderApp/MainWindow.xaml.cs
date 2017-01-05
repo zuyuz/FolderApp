@@ -25,7 +25,7 @@ namespace FolderApp
         public MainWindow()
         {
             InitializeComponent();
-
+            buttonUnpack.IsEnabled = false;
         }
 
         private void buttonPack_Click(object sender, RoutedEventArgs e)
@@ -77,6 +77,7 @@ namespace FolderApp
                 item.Header = tree.Path.Split('\\').Last();
                 item.Items.Add("*");
                 treeView.Items.Add(item);
+                buttonUnpack.IsEnabled = true;
             }
         }
 
