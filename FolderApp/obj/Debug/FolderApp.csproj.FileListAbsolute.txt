@@ -1,0 +1,16 @@
+c:\users\zayat\onedrive\documents\visual studio 2015\Projects\FolderApp\FolderApp\bin\Debug\FolderApp.exe.config
+C:\Users\Zayat\onedrive\documents\visual studio 2015\Projects\FolderApp\FolderApp\bin\Debug\FolderApp.exe
+C:\Users\Zayat\onedrive\documents\visual studio 2015\Projects\FolderApp\FolderApp\bin\Debug\FolderApp.pdb
+C:\Users\Zayat\onedrive\documents\visual studio 2015\Projects\FolderApp\FolderApp\obj\Debug\FolderApp.csprojResolveAssemblyReference.cache
+C:\Users\Zayat\onedrive\documents\visual studio 2015\Projects\FolderApp\FolderApp\obj\Debug\MainWindow.g.cs
+C:\Users\Zayat\onedrive\documents\visual studio 2015\Projects\FolderApp\FolderApp\obj\Debug\App.g.cs
+C:\Users\Zayat\onedrive\documents\visual studio 2015\Projects\FolderApp\FolderApp\obj\Debug\FolderApp_MarkupCompile.cache
+C:\Users\Zayat\onedrive\documents\visual studio 2015\Projects\FolderApp\FolderApp\obj\Debug\FolderApp_MarkupCompile.lref
+C:\Users\Zayat\onedrive\documents\visual studio 2015\Projects\FolderApp\FolderApp\obj\Debug\MainWindow.baml
+C:\Users\Zayat\onedrive\documents\visual studio 2015\Projects\FolderApp\FolderApp\obj\Debug\FolderApp.g.resources
+C:\Users\Zayat\onedrive\documents\visual studio 2015\Projects\FolderApp\FolderApp\obj\Debug\FolderApp.Properties.Resources.resources
+C:\Users\Zayat\onedrive\documents\visual studio 2015\Projects\FolderApp\FolderApp\obj\Debug\FolderApp.csproj.GenerateResource.Cache
+C:\Users\Zayat\onedrive\documents\visual studio 2015\Projects\FolderApp\FolderApp\obj\Debug\FolderApp.exe
+C:\Users\Zayat\onedrive\documents\visual studio 2015\Projects\FolderApp\FolderApp\obj\Debug\FolderApp.pdb
+C:\Users\Zayat\onedrive\documents\visual studio 2015\Projects\FolderApp\FolderApp\obj\Debug\FileNameInputWindow.g.cs
+C:\Users\Zayat\onedrive\documents\visual studio 2015\Projects\FolderApp\FolderApp\obj\Debug\FileNameInputWindow.baml
